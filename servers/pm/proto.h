@@ -60,6 +60,7 @@ _PROTOTYPE( int do_getprocnr, (void)					);
 _PROTOTYPE( int do_getepinfo, (void)					);
 _PROTOTYPE( int do_svrctl, (void)					);
 _PROTOTYPE( int do_getsetpriority, (void)				);
+_PROTOTYPE( int do_printmsg, (void)           );
 
 /* schedule.c */
 _PROTOTYPE( void sched_init, (void)					);
